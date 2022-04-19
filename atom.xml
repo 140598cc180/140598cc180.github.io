@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TJU &#39;SEAFOOD&#39;</title>
+  <title>TJU &#39;SEAFOODS&#39;</title>
   
-  <subtitle>JJC CPH YBW</subtitle>
+  <subtitle>现有团队成员:贾佳策 陈普恒 于博文</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>JJC</name>
+    <name>A TJU SEAFOOD TEAM</name>
     
   </author>
   
